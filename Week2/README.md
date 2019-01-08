@@ -1,10 +1,10 @@
 ## 包含文件
 
-- hw1：第二周作业
+- hw2：第二周作业
 
 ## 主要内容
 
-1.视频地址：
+视频地址：
 
 https://www.bilibili.com/video/av36731342/?p=18
 
@@ -39,7 +39,7 @@ https://www.bilibili.com/video/av36731342/?p=32
 https://www.bilibili.com/video/av36731342/?p=33
 
 
-5.参考资料：
+参考资料：
 
 https://redstonewill.com/80/
 
